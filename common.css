@@ -1,31 +1,31 @@
-*{
+* {
 	margin: 0;
 	padding: 0;
 	border: 0;
 }
-a:hover{
+a:hover {
 	color: #EFB1B1;
 }
-a:visited{
+a:visited {
 	color: #CFC2A9;
 }
-a:active{
+a:active {
 	color: #F00;
 }
-body{
+body {
 	background: url(image/background.png);
 }
-h1{
+h1 {
 	font-family: 'Indie Flower', cursive;
 	letter-spacing: 4px;
 	color: #EFB1B1;
 }
-p{
+p {
 	font-family: 'Pacifico', cursive;
 	font-size: 21px;
 	color: #808080;
 }
-.block{
+.block {
 	width: 460px;
 	float: left;
 	margin: 10px; 
@@ -39,7 +39,7 @@ p{
 	border-radius: 5px;
 	padding: 16px;
 }
-.header{
+.header {
 	margin:10px;
 	line-height: 80%;
 }
