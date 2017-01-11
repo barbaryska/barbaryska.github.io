@@ -3,11 +3,20 @@
 	padding: 0;
 	border: 0;
 }
+a{
+	text-decoration: none;
+	padding: 8px;
+	color: #337AB7;
+	background: #317FEC;
+	box-shadow: 0 0 30px #CFC2A9;
+	border-radius: 8px;
+}
 a:hover {
 	color: #EFB1B1;
+	background: #BADDDE;
 }
 a:visited {
-	color: #CFC2A9;
+	color: #F7F5EE;
 }
 a:active {
 	color: #F00;
